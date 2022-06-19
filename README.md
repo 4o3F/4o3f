@@ -1,7 +1,5 @@
-<p align="center">
-  <h3 align="center">TECH OTAKUS SAVE THE WORLD</h3>
-  <h4 align="center">梦想和现实之间的沟壑，要用钱来填</h4>
-</p>
+## TECH OTAKUS SAVE THE WORLD
+> 梦想和现实之间的沟壑，要用钱来填
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -33,6 +31,16 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/languages.svg#gh-light-mode-only">
-  <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/overview.svg#gh-light-mode-only">
+
  </p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/languages.svg#gh-light-mode-only">
+      <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    </td>
+    <td>
+      <img src="https://github.com/CatMoe/CatMoe/blob/main/gif.gif?raw=true" align="right" width="300"/>
+    </td>
+  </tr>
+</table>
