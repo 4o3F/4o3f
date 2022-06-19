@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catmoe&show_icons=true&hide_border=true">
   <h3 align="center">TECH OTAKUS SAVE THE WORLD</h3>
   <h4 align="center">梦想和现实之间的沟壑，要用钱来填</h4>
 </p>
@@ -32,3 +31,8 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/languages.svg#gh-light-mode-only">
+  <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/overview.svg#gh-light-mode-only">
+ </p>
