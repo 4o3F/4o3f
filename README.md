@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/languages.svg#gh-light-mode-only">
-      <img src="https://raw.githubusercontent.com/catmoe/github-stats/master/generated/overview.svg#gh-light-mode-only">
+      <img src="https://raw.githubusercontent.com/LykorisR/github-stats/master/generated/languages.svg#gh-light-mode-only">
+      <img src="https://raw.githubusercontent.com/LykorisR/github-stats/master/generated/overview.svg#gh-light-mode-only">
     </td>
     <td>
-      <img src="https://github.com/CatMoe/CatMoe/blob/main/gif.gif?raw=true" align="right" width="300"/>
+      <img src="https://github.com/LykorisR/LykorisR/blob/main/gif.gif?raw=true" align="right" width="300"/>
     </td>
   </tr>
 </table>
