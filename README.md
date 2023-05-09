@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Otakus+Save+The+World;Advance+by+fair+means+or+foul)](https://git.io/typing-svg)  
 **Skills Mastered**  
 [![Skills Mastered](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,cloudflare,cmake,discord,bots,gcp,git,github,githubactions,go,gradle,idea,java,maven,js,ts,html,tailwind,css,vite,vue,vscode,webpack,mongodb,latex,linux,md,netlify,nginx,spring,sqlite,stackoverflow&perline=10&theme=light)](https://skillicons.dev)
 
@@ -19,3 +18,6 @@
     </td>
   </tr>
 </table>
+
+> 欲戴其冠，必承其重  
+> 循此苦旅，以达群星
