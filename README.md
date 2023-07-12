@@ -1,8 +1,8 @@
 **Skills Mastered**  
-[![Skills Mastered](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,cloudflare,cmake,discord,bots,gcp,git,github,githubactions,go,gradle,idea,java,maven,js,ts,html,tailwind,css,vite,vue,vscode,webpack,mongodb,latex,linux,md,netlify,nginx,spring,sqlite,stackoverflow&perline=10&theme=light)](https://skillicons.dev)
+[![Skills Mastered](https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,cloudflare,cmake,discord,bots,gcp,git,github,githubactions,go,gradle,idea,java,maven,js,ts,html,tailwind,css,vite,vue,vscode,webpack,mongodb,latex,linux,md,netlify,nginx,spring,sqlite,stackoverflow,redis,rust,flutter,cs&perline=10&theme=light)](https://skillicons.dev)
 
 **Skills Learning**  
-[![Skills Learning](https://skillicons.dev/icons?i=ae,blender,cs,docker,dotnet,electron,flutter,godot,graphql,ai,kotlin,kubernetes,wasm,lua,matlab,ps,pr,pytorch,react,redis,regex,rust,tensorflow,unity,unreal&perline=10&theme=light)](https://skillicons.dev)
+[![Skills Learning](https://skillicons.dev/icons?i=ae,blender,docker,dotnet,electron,godot,graphql,ai,kotlin,kubernetes,wasm,lua,matlab,ps,pr,pytorch,react,regex,tensorflow,unity,unreal&perline=10&theme=light)](https://skillicons.dev)
 
 <p align="center">
 
