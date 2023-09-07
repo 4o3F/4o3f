@@ -27,7 +27,7 @@ jobs:
           # Options
           user: 4o3F
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_display: columns
           config_octicon: yes
           config_timezone: Asia/Shanghai
