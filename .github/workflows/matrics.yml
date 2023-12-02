@@ -55,9 +55,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://403f.cafe/index.xml
